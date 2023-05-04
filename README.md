@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lgfu67xfu74i4cr7?svg=true)](https://ci.appveyor.com/project/AntonMain/json)
+[![Build status](https://ci.appveyor.com/api/projects/status/aj7n4c94h989n7w6?svg=true)](https://ci.appveyor.com/project/AntonMain/postmanecho)
